@@ -8,5 +8,5 @@ if sales < 1000:
 else:
     bonus = sales * 0.15
 
-print("Bonus is $", bonus, sep='')
+print("Bonus is $", bonus)
     
